@@ -1,0 +1,58 @@
+html {
+    background-color: #023047;
+}
+
+.app {
+    background-color: #023047;
+    color: white;
+    padding: 50px;
+}
+
+.directions {
+    color: white;
+}
+
+.optionsList {
+    list-style-type: none;
+    font-size: 20px;
+    padding: 0px;
+}
+
+.removeOptionButton {
+    text-align: center;
+    font-size: 12px;
+    font-weight: bolder;
+    border-radius: 50%;
+    background-color: #FFB703;
+    color: white;
+    transition-duration: 0.5s;
+    padding: 2px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+.removeOptionButton:hover {
+    background-color: #f44336;
+}
+
+.optionForm {
+   color: white;
+}
+
+.finalOption {
+    color: white;
+    font-weight: bold;
+}
+
+.progressionButton {
+    color: white;
+    background-color: #219EBC;
+    transition-duration: 0.5s;
+    border-color: #219EBC;
+}
+
+.progressionButton:hover {
+    color: white;
+    background-color: #FFB703;
+    border-color: #219EBC;
+}

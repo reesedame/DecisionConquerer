@@ -1,5 +1,6 @@
 {
-  "name": "decision-conquerer-new",
+  "name": "decision-conquerer",
+  "author": "Reese Dame",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
